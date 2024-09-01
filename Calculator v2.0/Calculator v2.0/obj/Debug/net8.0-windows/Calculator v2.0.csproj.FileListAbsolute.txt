@@ -1,0 +1,23 @@
+C:\Users\Ömer Sefa\source\repos\Calculator v2.0\Calculator v2.0\bin\Debug\net8.0-windows\Calculator v2.0.exe
+C:\Users\Ömer Sefa\source\repos\Calculator v2.0\Calculator v2.0\bin\Debug\net8.0-windows\Calculator v2.0.deps.json
+C:\Users\Ömer Sefa\source\repos\Calculator v2.0\Calculator v2.0\bin\Debug\net8.0-windows\Calculator v2.0.runtimeconfig.json
+C:\Users\Ömer Sefa\source\repos\Calculator v2.0\Calculator v2.0\bin\Debug\net8.0-windows\Calculator v2.0.dll
+C:\Users\Ömer Sefa\source\repos\Calculator v2.0\Calculator v2.0\bin\Debug\net8.0-windows\Calculator v2.0.pdb
+C:\Users\Ömer Sefa\source\repos\Calculator v2.0\Calculator v2.0\bin\Debug\net8.0-windows\Guna.UI2.dll
+C:\Users\Ömer Sefa\source\repos\Calculator v2.0\Calculator v2.0\bin\Debug\net8.0-windows\System.Management.dll
+C:\Users\Ömer Sefa\source\repos\Calculator v2.0\Calculator v2.0\bin\Debug\net8.0-windows\runtimes\win\lib\net7.0\System.Management.dll
+C:\Users\Ömer Sefa\source\repos\Calculator v2.0\Calculator v2.0\obj\Debug\net8.0-windows\Calculator v2.0.csproj.AssemblyReference.cache
+C:\Users\Ömer Sefa\source\repos\Calculator v2.0\Calculator v2.0\obj\Debug\net8.0-windows\Calculator v2.0.csproj.GenerateResource.cache
+C:\Users\Ömer Sefa\source\repos\Calculator v2.0\Calculator v2.0\obj\Debug\net8.0-windows\Calculator v2.0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ömer Sefa\source\repos\Calculator v2.0\Calculator v2.0\obj\Debug\net8.0-windows\Calculator v2.0.AssemblyInfoInputs.cache
+C:\Users\Ömer Sefa\source\repos\Calculator v2.0\Calculator v2.0\obj\Debug\net8.0-windows\Calculator v2.0.AssemblyInfo.cs
+C:\Users\Ömer Sefa\source\repos\Calculator v2.0\Calculator v2.0\obj\Debug\net8.0-windows\Calculator v2.0.csproj.CoreCompileInputs.cache
+C:\Users\Ömer Sefa\source\repos\Calculator v2.0\Calculator v2.0\obj\Debug\net8.0-windows\Calculat.EFF6294D.Up2Date
+C:\Users\Ömer Sefa\source\repos\Calculator v2.0\Calculator v2.0\obj\Debug\net8.0-windows\Calculator v2.0.dll
+C:\Users\Ömer Sefa\source\repos\Calculator v2.0\Calculator v2.0\obj\Debug\net8.0-windows\refint\Calculator v2.0.dll
+C:\Users\Ömer Sefa\source\repos\Calculator v2.0\Calculator v2.0\obj\Debug\net8.0-windows\Calculator v2.0.pdb
+C:\Users\Ömer Sefa\source\repos\Calculator v2.0\Calculator v2.0\obj\Debug\net8.0-windows\Calculator v2.0.genruntimeconfig.cache
+C:\Users\Ömer Sefa\source\repos\Calculator v2.0\Calculator v2.0\obj\Debug\net8.0-windows\ref\Calculator v2.0.dll
+C:\Users\Ömer Sefa\source\repos\Calculator v2.0\Calculator v2.0\obj\Debug\net8.0-windows\Calculator_v2._0.Properties.Resources.resources
+C:\Users\Ömer Sefa\source\repos\Calculator v2.0\Calculator v2.0\obj\Debug\net8.0-windows\Calculator_v2._0.HesapMakinesi.resources
+C:\Users\Ömer Sefa\source\repos\Calculator v2.0\Calculator v2.0\obj\Debug\net8.0-windows\Calculator_v2._0.Ayarlar.resources

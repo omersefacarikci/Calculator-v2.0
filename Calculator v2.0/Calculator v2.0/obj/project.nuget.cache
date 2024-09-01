@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "YiXt2keOjj4=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ömer Sefa\\source\\repos\\Calculator v2.0\\Calculator v2.0\\Calculator v2.0.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ömer Sefa\\.nuget\\packages\\guna.ui2.winforms\\2.0.4.6\\guna.ui2.winforms.2.0.4.6.nupkg.sha512",
+    "C:\\Users\\Ömer Sefa\\.nuget\\packages\\system.codedom\\7.0.0\\system.codedom.7.0.0.nupkg.sha512",
+    "C:\\Users\\Ömer Sefa\\.nuget\\packages\\system.management\\7.0.0\\system.management.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
